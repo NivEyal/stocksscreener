@@ -1,0 +1,6 @@
+kivy
+requests
+fastapi
+uvicorn
+streamlit
+finnhub-python
